@@ -1,0 +1,30 @@
+.header
+{
+  padding: 20px;
+}
+.header img
+{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.qualification .degree_list
+{
+  line-height: 2.0;
+  font-size: 15px;
+}
+.skills .skills_list
+{
+  line-height: 2.0;
+  font-size: 15px;
+}
+.hobbies .hobbies_list
+{
+  line-height: 2.0;
+  font-size: 15px;
+}
+.address .address_list
+{
+  line-height: 2.0;
+  font-size: 15px;
+}
